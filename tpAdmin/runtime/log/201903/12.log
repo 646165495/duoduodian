@@ -1,0 +1,312 @@
+[ 2019-03-12T22:59:30+08:00 ] ::1 ::1 GET /duoduodian/tpAdmin/public/
+[ log ] localhost/duoduodian/tpAdmin/public/ [运行时间：0.293355s][吞吐率：3.41req/s] [内存消耗：998.19kb] [文件加载：41]
+[ info ] [ LANG ] F:\WWW\duoduodian\tpAdmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_3b20cd2f42f02b4355271b5a2825dd15=1526095498; Hm_lvt_d5c04a411872b019e90ca2b7a2da44e4=1526100537; Hm_lvt_7647ec3b70144fdfec55f5a278727d2a=1528592135; Hm_lvt_c7d97ec9b59790730b0fbcc637607523=1528599463; Hm_lvt_f7d657b0548f3b30d060642ecbf667af=1528380361,1529028813; Hm_lvt_2b13f498daa22c4b21688750b0982f7b=1533462407; pgv_pvi=6065385472; PHPSESSID=6msdv0li27gr0tqr7hn1hsk0m1; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552398371; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1552399392',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.84 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ F:\WWW\duoduodian\tpAdmin\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2019-03-12T23:05:39+08:00 ] ::1 ::1 GET /duoduodian/tpAdmin/public/
+[ log ] localhost/duoduodian/tpAdmin/public/ [运行时间：0.054895s][吞吐率：18.22req/s] [内存消耗：874.20kb] [文件加载：36]
+[ info ] [ LANG ] F:\WWW\duoduodian\tpAdmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_3b20cd2f42f02b4355271b5a2825dd15=1526095498; Hm_lvt_d5c04a411872b019e90ca2b7a2da44e4=1526100537; Hm_lvt_7647ec3b70144fdfec55f5a278727d2a=1528592135; Hm_lvt_c7d97ec9b59790730b0fbcc637607523=1528599463; Hm_lvt_f7d657b0548f3b30d060642ecbf667af=1528380361,1529028813; Hm_lvt_2b13f498daa22c4b21688750b0982f7b=1533462407; pgv_pvi=6065385472; PHPSESSID=6msdv0li27gr0tqr7hn1hsk0m1; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552398371; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1552399392',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.84 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ F:\WWW\duoduodian\tpAdmin\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2019-03-12T23:05:52+08:00 ] ::1 ::1 GET /duoduodian/tpAdmin/public/
+[ log ] localhost/duoduodian/tpAdmin/public/ [运行时间：0.063453s][吞吐率：15.76req/s] [内存消耗：874.62kb] [文件加载：36]
+[ info ] [ LANG ] F:\WWW\duoduodian\tpAdmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_3b20cd2f42f02b4355271b5a2825dd15=1526095498; Hm_lvt_d5c04a411872b019e90ca2b7a2da44e4=1526100537; Hm_lvt_7647ec3b70144fdfec55f5a278727d2a=1528592135; Hm_lvt_c7d97ec9b59790730b0fbcc637607523=1528599463; Hm_lvt_f7d657b0548f3b30d060642ecbf667af=1528380361,1529028813; Hm_lvt_2b13f498daa22c4b21688750b0982f7b=1533462407; pgv_pvi=6065385472; PHPSESSID=6msdv0li27gr0tqr7hn1hsk0m1; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552398371; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1552399392',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.84 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ F:\WWW\duoduodian\tpAdmin\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2019-03-12T23:05:53+08:00 ] ::1 ::1 GET /duoduodian/tpAdmin/public/
+[ log ] localhost/duoduodian/tpAdmin/public/ [运行时间：0.048935s][吞吐率：20.44req/s] [内存消耗：874.62kb] [文件加载：36]
+[ info ] [ LANG ] F:\WWW\duoduodian\tpAdmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_3b20cd2f42f02b4355271b5a2825dd15=1526095498; Hm_lvt_d5c04a411872b019e90ca2b7a2da44e4=1526100537; Hm_lvt_7647ec3b70144fdfec55f5a278727d2a=1528592135; Hm_lvt_c7d97ec9b59790730b0fbcc637607523=1528599463; Hm_lvt_f7d657b0548f3b30d060642ecbf667af=1528380361,1529028813; Hm_lvt_2b13f498daa22c4b21688750b0982f7b=1533462407; pgv_pvi=6065385472; PHPSESSID=6msdv0li27gr0tqr7hn1hsk0m1; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552398371; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1552399392',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.84 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ F:\WWW\duoduodian\tpAdmin\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2019-03-12T23:05:59+08:00 ] ::1 ::1 GET /duoduodian/tpAdmin/public/
+[ log ] localhost/duoduodian/tpAdmin/public/ [运行时间：0.053983s][吞吐率：18.52req/s] [内存消耗：998.36kb] [文件加载：41]
+[ info ] [ LANG ] F:\WWW\duoduodian\tpAdmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_3b20cd2f42f02b4355271b5a2825dd15=1526095498; Hm_lvt_d5c04a411872b019e90ca2b7a2da44e4=1526100537; Hm_lvt_7647ec3b70144fdfec55f5a278727d2a=1528592135; Hm_lvt_c7d97ec9b59790730b0fbcc637607523=1528599463; Hm_lvt_f7d657b0548f3b30d060642ecbf667af=1528380361,1529028813; Hm_lvt_2b13f498daa22c4b21688750b0982f7b=1533462407; pgv_pvi=6065385472; PHPSESSID=6msdv0li27gr0tqr7hn1hsk0m1; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552398371; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1552399392',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.84 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ F:\WWW\duoduodian\tpAdmin\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2019-03-12T23:06:33+08:00 ] ::1 ::1 GET /duoduodian/tpAdmin/public/
+[ log ] localhost/duoduodian/tpAdmin/public/ [运行时间：0.046043s][吞吐率：21.72req/s] [内存消耗：998.17kb] [文件加载：41]
+[ info ] [ LANG ] F:\WWW\duoduodian\tpAdmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_3b20cd2f42f02b4355271b5a2825dd15=1526095498; Hm_lvt_d5c04a411872b019e90ca2b7a2da44e4=1526100537; Hm_lvt_7647ec3b70144fdfec55f5a278727d2a=1528592135; Hm_lvt_c7d97ec9b59790730b0fbcc637607523=1528599463; Hm_lvt_f7d657b0548f3b30d060642ecbf667af=1528380361,1529028813; Hm_lvt_2b13f498daa22c4b21688750b0982f7b=1533462407; pgv_pvi=6065385472; PHPSESSID=6msdv0li27gr0tqr7hn1hsk0m1; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552398371; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1552399392',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.84 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ F:\WWW\duoduodian\tpAdmin\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2019-03-12T23:06:48+08:00 ] ::1 ::1 GET /duoduodian/tpAdmin/public/
+[ log ] localhost/duoduodian/tpAdmin/public/ [运行时间：0.051843s][吞吐率：19.29req/s] [内存消耗：998.17kb] [文件加载：41]
+[ info ] [ LANG ] F:\WWW\duoduodian\tpAdmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_3b20cd2f42f02b4355271b5a2825dd15=1526095498; Hm_lvt_d5c04a411872b019e90ca2b7a2da44e4=1526100537; Hm_lvt_7647ec3b70144fdfec55f5a278727d2a=1528592135; Hm_lvt_c7d97ec9b59790730b0fbcc637607523=1528599463; Hm_lvt_f7d657b0548f3b30d060642ecbf667af=1528380361,1529028813; Hm_lvt_2b13f498daa22c4b21688750b0982f7b=1533462407; pgv_pvi=6065385472; PHPSESSID=6msdv0li27gr0tqr7hn1hsk0m1; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552398371; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1552399392',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.84 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ F:\WWW\duoduodian\tpAdmin\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2019-03-12T23:06:51+08:00 ] ::1 ::1 GET /duoduodian/tpAdmin/public/
+[ log ] localhost/duoduodian/tpAdmin/public/ [运行时间：0.091735s][吞吐率：10.90req/s] [内存消耗：998.17kb] [文件加载：41]
+[ info ] [ LANG ] F:\WWW\duoduodian\tpAdmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_3b20cd2f42f02b4355271b5a2825dd15=1526095498; Hm_lvt_d5c04a411872b019e90ca2b7a2da44e4=1526100537; Hm_lvt_7647ec3b70144fdfec55f5a278727d2a=1528592135; Hm_lvt_c7d97ec9b59790730b0fbcc637607523=1528599463; Hm_lvt_f7d657b0548f3b30d060642ecbf667af=1528380361,1529028813; Hm_lvt_2b13f498daa22c4b21688750b0982f7b=1533462407; pgv_pvi=6065385472; PHPSESSID=6msdv0li27gr0tqr7hn1hsk0m1; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552398371; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1552399392',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.84 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ F:\WWW\duoduodian\tpAdmin\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2019-03-12T23:06:57+08:00 ] ::1 ::1 GET /duoduodian/tpAdmin/public/
+[ log ] localhost/duoduodian/tpAdmin/public/ [运行时间：0.054653s][吞吐率：18.30req/s] [内存消耗：874.39kb] [文件加载：36]
+[ info ] [ LANG ] F:\WWW\duoduodian\tpAdmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_3b20cd2f42f02b4355271b5a2825dd15=1526095498; Hm_lvt_d5c04a411872b019e90ca2b7a2da44e4=1526100537; Hm_lvt_7647ec3b70144fdfec55f5a278727d2a=1528592135; Hm_lvt_c7d97ec9b59790730b0fbcc637607523=1528599463; Hm_lvt_f7d657b0548f3b30d060642ecbf667af=1528380361,1529028813; Hm_lvt_2b13f498daa22c4b21688750b0982f7b=1533462407; pgv_pvi=6065385472; PHPSESSID=6msdv0li27gr0tqr7hn1hsk0m1; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552398371; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1552399392',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.84 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ F:\WWW\duoduodian\tpAdmin\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2019-03-12T23:07:03+08:00 ] ::1 ::1 GET /duoduodian/tpAdmin/public/
+[ log ] localhost/duoduodian/tpAdmin/public/ [运行时间：0.062164s][吞吐率：16.09req/s] [内存消耗：998.36kb] [文件加载：41]
+[ info ] [ LANG ] F:\WWW\duoduodian\tpAdmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_3b20cd2f42f02b4355271b5a2825dd15=1526095498; Hm_lvt_d5c04a411872b019e90ca2b7a2da44e4=1526100537; Hm_lvt_7647ec3b70144fdfec55f5a278727d2a=1528592135; Hm_lvt_c7d97ec9b59790730b0fbcc637607523=1528599463; Hm_lvt_f7d657b0548f3b30d060642ecbf667af=1528380361,1529028813; Hm_lvt_2b13f498daa22c4b21688750b0982f7b=1533462407; pgv_pvi=6065385472; PHPSESSID=6msdv0li27gr0tqr7hn1hsk0m1; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552398371; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1552399392',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.84 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ F:\WWW\duoduodian\tpAdmin\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2019-03-12T23:46:38+08:00 ] ::1 ::1 GET /duoduodian/tpAdmin/public/
+[ log ] localhost/duoduodian/tpAdmin/public/ [运行时间：0.065327s][吞吐率：15.31req/s] [内存消耗：998.17kb] [文件加载：41]
+[ info ] [ LANG ] F:\WWW\duoduodian\tpAdmin\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Hm_lvt_3b20cd2f42f02b4355271b5a2825dd15=1526095498; Hm_lvt_d5c04a411872b019e90ca2b7a2da44e4=1526100537; Hm_lvt_7647ec3b70144fdfec55f5a278727d2a=1528592135; Hm_lvt_c7d97ec9b59790730b0fbcc637607523=1528599463; Hm_lvt_f7d657b0548f3b30d060642ecbf667af=1528380361,1529028813; Hm_lvt_2b13f498daa22c4b21688750b0982f7b=1533462407; pgv_pvi=6065385472; PHPSESSID=6msdv0li27gr0tqr7hn1hsk0m1; Hm_lvt_080836300300be57b7f34f4b3e97d911=1552398371; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1552399392',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.84 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ F:\WWW\duoduodian\tpAdmin\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
